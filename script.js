@@ -50,6 +50,7 @@ var sources = [
     { name: 'Gilles Favard', type: 'journalist', tier: 5, workplace: 'L’Équipe' },
     { name: 'Grégory Schneider', type: 'journalist', tier: 5, workplace: 'Libération' },
     { name: 'Geoffroy Garétier', type: 'journalist', tier: 5, workplace: 'Canal+' },
+    { name: 'Abdellah Boulma', type: 'journalist', tier: 5, workplace: 'AfricaSports' },
     { name: 'Nabil Djellit', type: 'journalist', tier: 5, workplace: 'France Football' },
     { name: 'Julien Laurens', type: 'journalist', tier: 5, workplace: 'ESPN' },
     { name: 'MundoDeportivo', type: 'media', tier: 5, workplace: null },

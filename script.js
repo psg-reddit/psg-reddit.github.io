@@ -2,6 +2,7 @@ var sources = [
     // Tier 1
     { name: 'Ambre Godillon', type: 'journalist', tier: 1, workplace: 'PSG Media' },
     { name: 'Yann Guerin', type: 'journalist', tier: 1, workplace: 'PSG Media' },    
+    { name: 'Benjamin Quarez', type: 'journalist', tier: 1, workplace: 'Goal' },
     { name: 'Loïc Tanzi', type: 'journalist', tier: 1, workplace: 'RMC' },
     { name: 'Adrien Chantegrelet', type: 'journalist', tier: 1, workplace: 'Le Parisien' },
     { name: 'Mathieu Faure', type: 'journalist', tier: 1, workplace: 'Nice Matin' },

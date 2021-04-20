@@ -7,7 +7,7 @@ var sources = [
     { name: 'Mathieu Faure', type: 'journalist', tier: 1, workplace: 'Nice Matin' },
     { name: 'TitisduPSG', type: 'media', tier: 1, workplace: null },
     // Tier 2
-    { name: 'Loïc Tanzi', type: 'journalist', tier: 1, workplace: 'RMC' },
+    { name: 'Loïc Tanzi', type: 'journalist', tier: 2, workplace: 'RMC' },
     { name: 'Bruno Salomon', type: 'journalist', tier: 2, workplace: 'France Bleu Paris' },
     { name: 'Guillaume Maillard-Pacini', type: 'journalist', tier: 2, workplace: 'Eurosport' },
     { name: 'Fabrizio Romano', type: 'journalist', tier: 2, workplace: 'The Guardian' },

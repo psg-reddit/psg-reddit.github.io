@@ -3,11 +3,11 @@ var sources = [
     { name: 'Ambre Godillon', type: 'journalist', tier: 1, workplace: 'PSG Media' },
     { name: 'Yann Guerin', type: 'journalist', tier: 1, workplace: 'PSG Media' },    
     { name: 'Benjamin Quarez', type: 'journalist', tier: 1, workplace: 'Goal' },
-    { name: 'Loïc Tanzi', type: 'journalist', tier: 1, workplace: 'RMC' },
     { name: 'Adrien Chantegrelet', type: 'journalist', tier: 1, workplace: 'Le Parisien' },
     { name: 'Mathieu Faure', type: 'journalist', tier: 1, workplace: 'Nice Matin' },
     { name: 'TitisduPSG', type: 'media', tier: 1, workplace: null },
     // Tier 2
+    { name: 'Loïc Tanzi', type: 'journalist', tier: 1, workplace: 'RMC' },
     { name: 'Bruno Salomon', type: 'journalist', tier: 2, workplace: 'France Bleu Paris' },
     { name: 'Guillaume Maillard-Pacini', type: 'journalist', tier: 2, workplace: 'Eurosport' },
     { name: 'Fabrizio Romano', type: 'journalist', tier: 2, workplace: 'The Guardian' },

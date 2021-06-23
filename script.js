@@ -29,7 +29,7 @@ var sources = [
     { name: 'Tariq Panja', type: 'journalist', tier: 3, workplace: 'NYT' },    
     { name: 'Maxime Dupuis', type: 'journalist', tier: 3, workplace: 'Eurosport' },
     { name: 'RMC', type: 'media', tier: 3, workplace: null },
-    { name: 'L’Équipe', type: 'media', tier: 4, workplace: null },
+    { name: 'L’Équipe', type: 'media', tier: 3, workplace: null },
     { name: 'Eurosport', type: 'media', tier: 3, workplace: null },
     { name: 'France Football', type: 'media', tier: 3, workplace: null },
     { name: 'Sky Italia', type: 'media', tier: 3, workplace: null },

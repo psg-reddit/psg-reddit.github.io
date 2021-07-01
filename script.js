@@ -47,6 +47,7 @@ var sources = [
     { name: 'Duncan Castles', type: 'journalist', tier: 4, workplace: 'Sunday Times' },
     { name: 'Jonathan Johnson', type: 'journalist', tier: 4, workplace: 'ESPN' },
     { name: 'Le10Sport', type: 'media', tier: 4, workplace: null },
+    { name: 'RTL', type: 'media', tier: 4, workplace: null },
     { name: 'GFFN', type: 'media', tier: 4, workplace: null },
     { name: 'The Mirror', type: 'media', tier: 4, workplace: null },
     { name: 'AS', type: 'media', tier: 4, workplace: null },

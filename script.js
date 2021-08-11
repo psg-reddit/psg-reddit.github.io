@@ -6,6 +6,7 @@ var sources = [
     { name: 'Benjamin Quarez', type: 'journalist', tier: 1, workplace: 'Le Parisien' },
     { name: 'Adrien Chantegrelet', type: 'journalist', tier: 1, workplace: 'Le Parisien' },
     { name: 'Mathieu Faure', type: 'journalist', tier: 1, workplace: 'Nice Matin' },
+    { name: 'Omar da Fonseca', type: 'journalist', tier: 1, workplace: 'Bein Sports' },
     { name: 'TitisduPSG', type: 'media', tier: 1, workplace: null },
     // Tier 2
     { name: 'Bruno Salomon', type: 'journalist', tier: 2, workplace: 'France Bleu Paris' },

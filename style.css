@@ -94,27 +94,19 @@ body {
 }
 
 .tier-color-0 {
-    background-color: #12ff00;
+    background-color: #024192;
 }
 
 .tier-color-1 {
-    background-color: #0dbc00;
+    background-color: #0dbc00;  /* Good tier */
 }
 
 .tier-color-2 {
-    background-color: #fffc00;
+    background-color: #ffba00;  /* Medium tier */
 }
 
 .tier-color-3 {
-    background-color: #ffba00;
-}
-
-.tier-color-4 {
-    background-color: #ff8039;
-}
-
-.tier-color-5 {
-    background-color: #ff0000;
+    background-color: #ff0000; /* Shit tier */
 }
 
 .tier-content {

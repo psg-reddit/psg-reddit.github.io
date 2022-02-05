@@ -59,7 +59,7 @@ var sources = [
     { name: 'Dominique Sévérac', type: 'journalist', tier: 3, workplace: 'LeParisien' },
     { name: 'Grégory Schneider', type: 'journalist', tier: 3, workplace: 'Libération' },
     { name: 'Geoffroy Garétier', type: 'journalist', tier: 3, workplace: 'Canal+' },
-    { name: 'Abdellah Boulma', type: 'journalist', tier: 3, workplace: 'AfricaSports' },
+    { name: 'Abdellah Boulma', type: 'journalist', tier: 3, workplace: 'CNEWS' },
     { name: 'Nabil Djellit', type: 'journalist', tier: 3, workplace: 'France Football' },
     { name: 'Julien Laurens', type: 'journalist', tier: 3, workplace: 'ESPN' },
     { name: 'Le10Sport', type: 'media', tier: 3, workplace: null },

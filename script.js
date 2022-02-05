@@ -8,6 +8,7 @@ var sources = [
     { name: 'Bruno Salomon', type: 'journalist', tier: 1, workplace: 'France Bleu Paris' },
     { name: 'Philippe Goguet', type: 'journalist', tier: 1, workplace: 'CulturePSG' },    
     { name: 'Benjamin Quarez', type: 'journalist', tier: 1, workplace: 'Le Parisien' },
+    { name: 'Marc Mechenoua', type: 'journalist', tier: 1, workplace: 'Goal.com' },    
     { name: 'Mathieu Faure', type: 'journalist', tier: 1, workplace: 'Nice Matin' },
     { name: 'Adrien Chantegrelet', type: 'journalist', tier: 1, workplace: 'Le Parisien' },
     { name: 'Omar da Fonseca', type: 'journalist', tier: 1, workplace: 'Bein Sports' },

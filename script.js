@@ -13,7 +13,7 @@ var sources = [
     { name: 'Marc Mechenoua', type: 'journalist', tier: 1, workplace: 'Goal.com' },    
     { name: 'Omar da Fonseca', type: 'journalist', tier: 1, workplace: 'Bein Sports' },
     { name: 'Rubén Uría', type: 'journalist', tier: 1, workplace: 'Bein Sports' },
-    { name: 'Marcelo Bechler', type: 'journalist', tier: 1, workplace: 'Esporte Interativo' },
+    { name: 'Marcelo Bechler', type: 'journalist', tier: 1, workplace: 'TNT Sports' },
     { name: 'Saber Desfarges', type: 'journalist', tier: 1, workplace: 'ex-RMC' },
     { name: 'TitisduPSG', type: 'media', tier: 1, workplace: null },
     { name: 'CulturePSG', type: 'media', tier: 1, workplace: null },

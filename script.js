@@ -65,6 +65,7 @@ var sources = [
     { name: 'Nabil Djellit', type: 'journalist', tier: 3, workplace: 'France Football' },
     { name: 'Julien Laurens', type: 'journalist', tier: 3, workplace: 'ESPN' },
     { name: 'Le10Sport', type: 'media', tier: 3, workplace: null },
+    { name: 'Canal+', type: 'media', tier: 3, workplace: null },
     { name: 'RTL', type: 'media', tier: 3, workplace: null },
     { name: 'GFFN', type: 'media', tier: 3, workplace: null },
     { name: 'PSGHub', type: 'media', tier: 3, workplace: null },    

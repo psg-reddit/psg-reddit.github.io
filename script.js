@@ -17,7 +17,7 @@ var sources = [
     { name: 'Rubén Uría', type: 'journalist', tier: 1, workplace: 'beIN' },
     { name: 'TitisduPSG', type: 'media', tier: 1, workplace: null },
     { name: 'CulturePSG', type: 'media', tier: 1, workplace: null },
-    { name: 'beIN SPORTS', type: 'media', tier: 2, workplace: null },    
+    { name: 'beIN SPORTS', type: 'media', tier: 1, workplace: null },    
     // Medium tier source
     { name: 'Guillaume Maillard-Pacini', type: 'journalist', tier: 2, workplace: 'Eurosport' },
     { name: 'Fabrice Hawkins', type: 'journalist', tier: 2, workplace: 'France Info' },

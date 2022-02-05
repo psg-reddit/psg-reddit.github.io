@@ -39,6 +39,7 @@ var sources = [
     { name: 'Eurosport', type: 'media', tier: 2, workplace: null },
     { name: 'France Football', type: 'media', tier: 2, workplace: null },
     { name: 'Sky Italia', type: 'media', tier: 2, workplace: null },
+    { name: 'TheAthletic', type: 'media', tier: 2, workplace: null },
     { name: 'The Telegraph', type: 'media', tier: 2, workplace: null },
     { name: 'The Guardian', type: 'media', tier: 2, workplace: null },
     { name: 'Gazzetta dello Sport', type: 'media', tier: 2, workplace: null },

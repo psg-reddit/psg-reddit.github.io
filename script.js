@@ -64,6 +64,7 @@ var sources = [
     { name: 'Le10Sport', type: 'media', tier: 3, workplace: null },
     { name: 'RTL', type: 'media', tier: 3, workplace: null },
     { name: 'GFFN', type: 'media', tier: 3, workplace: null },
+    { name: 'PSGHub', type: 'media', tier: 3, workplace: null },    
     { name: 'The Mirror', type: 'media', tier: 3, workplace: null },
     { name: 'AS', type: 'media', tier: 3, workplace: null },
     { name: 'Tuttosport', type: 'media', tier: 3, workplace: null },

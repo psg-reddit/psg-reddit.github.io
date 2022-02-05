@@ -76,6 +76,7 @@ var sources = [
     { name: 'ESPN', type: 'media', tier: 3, workplace: null },
     { name: 'Metro', type: 'media', tier: 3, workplace: null },
     { name: 'The Sun', type: 'media', tier: 3, workplace: null },
+    { name: 'El Chiringuito', type: 'media', tier: 3, workplace: null },
     { name: 'Daily Mail', type: 'media', tier: 3, workplace: null }
 ];
 

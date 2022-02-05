@@ -19,6 +19,7 @@ var sources = [
     { name: 'Loïc Tanzi', type: 'journalist', tier: 2, workplace: 'RMC' },
     { name: 'Bruno Andrade', type: 'journalist', tier: 2, workplace: 'DAZN' },
     { name: 'Julien Maynard', type: 'journalist', tier: 2, workplace: 'TF1' },
+    { name: 'Fabrice Hawkins', type: 'journalist', tier: 2, workplace: 'France Info' },
     { name: 'Fabrizio Romano', type: 'journalist', tier: 2, workplace: 'The Guardian' },
     { name: 'Gianluca Di Marzio', type: 'journalist', tier: 2, workplace: 'Sky Italia' },
     { name: 'Alessandro Grandesso', type: 'journalist', tier: 2, workplace: 'Gazzetta dello Sport' },

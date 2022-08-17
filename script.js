@@ -32,6 +32,7 @@ var sources = [
     { name: 'Tariq Panja', type: 'journalist', tier: 2, workplace: 'NYT' },
     { name: 'Maxime Dupuis', type: 'journalist', tier: 2, workplace: 'Eurosport' },
     { name: 'Fabrizio Romano', type: 'journalist', tier: 2, workplace: 'The Guardian' },
+    { name: 'Matteo Moretto', type: 'journalist', tier: 2, workplace: 'Relevo' },
     { name: 'Nicolas Hortus', type: 'journalist', tier: 2, workplace: 'Canal Supporters' },
     { name: 'Mohamed Bouhafsi', type: 'journalist', tier: 2, workplace: 'RMC' },
     { name: 'LeParisien', type: 'media', tier: 2, workplace: null },

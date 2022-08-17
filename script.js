@@ -48,6 +48,7 @@ var sources = [
     { name: 'Gazzetta dello Sport', type: 'media', tier: 2, workplace: null },
     { name: 'Globoesporte', type: 'media', tier: 2, workplace: null },
     // Shit tier source
+    { name: 'Arthur Perrot', type: 'journalist', tier: 3, workplace: 'RMC' },
     { name: 'Daniel Riolo', type: 'journalist', tier: 3, workplace: 'RMC' },
     { name: 'Romain Collet-Gaudin', type: 'journalist', tier: 3, workplace: 'Canal+' },
     { name: 'Phillipe Sanfourche', type: 'journalist', tier: 3, workplace: 'RTL' },

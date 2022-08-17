@@ -10,7 +10,6 @@ var sources = [
     { name: 'Philippe Goguet', type: 'journalist', tier: 1, workplace: 'CulturePSG' },    
     { name: 'Benjamin Quarez', type: 'journalist', tier: 1, workplace: 'Le Parisien' },
     { name: 'Adrien Chantegrelet', type: 'journalist', tier: 1, workplace: 'Le Parisien' },
-    { name: 'Mathieu Faure', type: 'journalist', tier: 1, workplace: 'Nice Matin' },
     { name: 'Marc Mechenoua', type: 'journalist', tier: 1, workplace: 'Goal.com' },    
     { name: 'Omar da Fonseca', type: 'journalist', tier: 1, workplace: 'Bein Sports' },
     { name: 'Rubén Uría', type: 'journalist', tier: 1, workplace: 'Bein Sports' },
@@ -20,6 +19,7 @@ var sources = [
     { name: 'Bein Sports', type: 'media', tier: 1, workplace: null },    
     // Medium tier source
     { name: 'Guillaume Maillard-Pacini', type: 'journalist', tier: 2, workplace: 'Eurosport' },
+    { name: 'Mathieu Faure', type: 'journalist', tier: 2, workplace: 'Nice Matin' },
     { name: 'Fabrice Hawkins', type: 'journalist', tier: 2, workplace: 'France Info' },
     { name: 'Hugo Guillement', type: 'journalist', tier: 2, workplace: 'L’Équipe' },
     { name: 'Loïc Tanzi', type: 'journalist', tier: 2, workplace: 'RMC' },

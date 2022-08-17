@@ -24,6 +24,7 @@ var sources = [
     { name: 'Loïc Tanzi', type: 'journalist', tier: 2, workplace: 'RMC' },
     { name: 'Gianluca Di Marzio', type: 'journalist', tier: 2, workplace: 'Sky Sports' },
     { name: 'Florian Plettenberg', type: 'journalist', tier: 2, workplace: 'Sky Sports' },
+    { name: 'Ben Jacobs', type: 'journalist', tier: 2, workplace: 'The Athletic' },
     { name: 'Marcelo Bechler', type: 'journalist', tier: 2, workplace: 'TNT Sports' },
     { name: 'Bruno Andrade', type: 'journalist', tier: 2, workplace: 'DAZN' },
     { name: 'Alessandro Grandesso', type: 'journalist', tier: 2, workplace: 'Gazzetta dello Sport' },

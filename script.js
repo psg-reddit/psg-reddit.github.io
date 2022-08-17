@@ -48,7 +48,6 @@ var sources = [
     { name: 'The Telegraph', type: 'media', tier: 2, workplace: null },
     { name: 'The Guardian', type: 'media', tier: 2, workplace: null },
     { name: 'Gazzetta dello Sport', type: 'media', tier: 2, workplace: null },
-    { name: 'Globoesporte', type: 'media', tier: 2, workplace: null },
     // Shit tier source
     { name: 'Arthur Perrot', type: 'journalist', tier: 3, workplace: 'RMC' },
     { name: 'Daniel Riolo', type: 'journalist', tier: 3, workplace: 'RMC' },

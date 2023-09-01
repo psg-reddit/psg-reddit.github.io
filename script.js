@@ -38,7 +38,7 @@ var sources = [
     { name: 'Matteo Moretto', type: 'journalist', tier: 2, workplace: 'Relevo' },
     { name: 'Mohamed Bouhafsi', type: 'journalist', tier: 2, workplace: 'RMC' },
     { name: 'Djamel', type: 'journalist', tier: 2, workplace: 'Djaameel_' },
-    { name: 'EsamB2Back', type: 'journalist', tier: 2, workplace: 'SportsZone' },
+    { name: 'EsamB2Back', type: 'journalist', tier: 2, workplace: 'SportsZone__' },
     { name: 'LeParisien', type: 'media', tier: 2, workplace: null },
     { name: 'RMC', type: 'media', tier: 2, workplace: null },
     { name: 'Canal Supporters', type: 'media', tier: 2, workplace: null },

@@ -25,6 +25,7 @@ var sources = [
     { name: 'Hugo Guillemet', type: 'journalist', tier: 2, workplace: 'L’Équipe' },
     { name: 'José Barroso', type: 'journalist', tier: 2, workplace: 'L’Équipe' },
     { name: 'Loïc Tanzi', type: 'journalist', tier: 2, workplace: 'L’Équipe' },
+    { name: 'Christian Falk', type: 'journalist', tier: 2, workplace: 'BILD' },
     { name: 'Gianluca Di Marzio', type: 'journalist', tier: 2, workplace: 'Sky Sports' },
     { name: 'Kaveh Solhekol', type: 'journalist', tier: 2, workplace: 'Sky Sports' },
     { name: 'Florian Plettenberg', type: 'journalist', tier: 2, workplace: 'Sky Sports' },

@@ -70,6 +70,7 @@ var sources = [
     { name: 'Max Miotto', type: 'journalist', tier: 3, workplace: 'PSG Community' },
     { name: 'Miloud Kotbi', type: 'journalist', tier: 3, workplace: 'PSG Community' },
     { name: 'Abdellah Boulma', type: 'journalist', tier: 3, workplace: 'CNEWS' },
+    { name: 'Dahbia Hattabi', type: 'journalist', tier: 3, workplace: 'FootMercato' },
     { name: 'Romain Collet-Gaudin', type: 'journalist', tier: 3, workplace: 'Canal+' },
     { name: 'Phillipe Sanfourche', type: 'journalist', tier: 3, workplace: 'RTL' },
     { name: 'Stéphane Mandard', type: 'journalist', tier: 3, workplace: 'LeMonde' },

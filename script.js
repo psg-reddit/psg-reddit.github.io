@@ -90,6 +90,7 @@ var sources = [
     { name: 'Le10Sport', type: 'media', tier: 3, workplace: null },
     { name: 'PSGCommunity_', type: 'media', tier: 3, workplace: null },
     { name: 'ParisNoLimit', type: 'media', tier: 3, workplace: null },
+    { name: 'PSG Reporter', type: 'media', tier: 3, workplace: null },
     { name: 'Canal+', type: 'media', tier: 3, workplace: null },
     { name: 'RTL', type: 'media', tier: 3, workplace: null },
     { name: 'GFFN', type: 'media', tier: 3, workplace: null },

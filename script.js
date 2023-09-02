@@ -56,7 +56,7 @@ var sources = [
     { name: 'France Football', type: 'media', tier: 2, workplace: null },
     { name: 'Sky Sports', type: 'media', tier: 2, workplace: null },
     { name: 'The Athletic', type: 'media', tier: 2, workplace: null },
-    { name: 'The Telegraph', type: 'media', tier: 2, workplace: null },
+    { name: 'Telegraph', type: 'media', tier: 2, workplace: null },
     { name: 'The Guardian', type: 'media', tier: 2, workplace: null },
     { name: 'Gazzetta dello Sport', type: 'media', tier: 2, workplace: null },
     // Shit tier source

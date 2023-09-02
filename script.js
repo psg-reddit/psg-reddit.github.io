@@ -81,6 +81,7 @@ var sources = [
     { name: 'Nicolò Schira', type: 'journalist', tier: 3, workplace: 'Gazzetta dello Sport' },
     { name: 'Antonio Vitiello', type: 'journalist', tier: 3, workplace: 'Tuttosport' },
     { name: 'Christopher Michel', type: 'journalist', tier: 3, workplace: 'SPORT1' },
+    { name: 'Patrick Berger', type: 'journalist', tier: 3, workplace: 'SPORT1' },
     { name: 'Andrés Onrubia', type: 'journalist', tier: 3, workplace: 'AS' },
     { name: 'Duncan Castles', type: 'journalist', tier: 3, workplace: 'Sunday Times' },
     { name: 'Jonathan Johnson', type: 'journalist', tier: 3, workplace: 'ESPN' },

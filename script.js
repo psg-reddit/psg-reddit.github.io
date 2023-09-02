@@ -75,6 +75,7 @@ var sources = [
     { name: 'Simone Rovera', type: 'journalist', tier: 3, workplace: 'ex-Telefoot' },
     { name: 'Nicolò Schira', type: 'journalist', tier: 3, workplace: 'Gazzetta dello Sport' },
     { name: 'Antonio Vitiello', type: 'journalist', tier: 3, workplace: 'Tuttosport' },
+    { name: 'Andrés Onrubia', type: 'journalist', tier: 3, workplace: 'AS' },
     { name: 'Duncan Castles', type: 'journalist', tier: 3, workplace: 'Sunday Times' },
     { name: 'Jonathan Johnson', type: 'journalist', tier: 3, workplace: 'ESPN' },
     { name: 'Grégory Schneider', type: 'journalist', tier: 3, workplace: 'Libération' },

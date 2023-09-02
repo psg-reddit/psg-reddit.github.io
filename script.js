@@ -26,6 +26,7 @@ var sources = [
     { name: 'José Barroso', type: 'journalist', tier: 2, workplace: 'L’Équipe' },
     { name: 'Loïc Tanzi', type: 'journalist', tier: 2, workplace: 'L’Équipe' },
     { name: 'Gianluca Di Marzio', type: 'journalist', tier: 2, workplace: 'Sky Sports' },
+    { name: 'Kaveh Solhekol', type: 'journalist', tier: 2, workplace: 'Sky Sports' },
     { name: 'Florian Plettenberg', type: 'journalist', tier: 2, workplace: 'Sky Sports' },
     { name: 'Ben Jacobs', type: 'journalist', tier: 2, workplace: 'The Athletic' },
     { name: 'David Ornstein', type: 'journalist', tier: 2, workplace: 'The Athletic' },

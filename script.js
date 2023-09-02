@@ -69,6 +69,7 @@ var sources = [
     { name: 'Daniel Riolo', type: 'journalist', tier: 3, workplace: 'RMC' },
     { name: 'Jérôme Rothen', type: 'journalist', tier: 3, workplace: 'RMC' },
     { name: 'Nicolas Pelletier', type: 'journalist', tier: 3, workplace: 'RMC' },
+    { name: 'Sacha Tavolieri', type: 'journalist', tier: 3, workplace: 'RMC' },
     { name: 'Max Miotto', type: 'journalist', tier: 3, workplace: 'PSG Community' },
     { name: 'Miloud Kotbi', type: 'journalist', tier: 3, workplace: 'PSG Community' },
     { name: 'Abdellah Boulma', type: 'journalist', tier: 3, workplace: 'CNEWS' },

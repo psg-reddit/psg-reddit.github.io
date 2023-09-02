@@ -17,6 +17,7 @@ var sources = [
     { name: 'CulturePSG', type: 'media', tier: 1, workplace: null },
     { name: 'Bein Sports', type: 'media', tier: 1, workplace: null },    
     // Medium tier source
+    { name: 'Laurent Perrin', type: 'journalist', tier: 2, workplace: 'Le Parisien' },
     { name: 'Adrien Chantegrelet', type: 'journalist', tier: 2, workplace: 'Le Parisien' },
     { name: 'Romain Beddouk', type: 'journalist', tier: 2, workplace: 'France Bleu Paris' },
     { name: 'Julien Froment', type: 'journalist', tier: 2, workplace: 'France Bleu Paris' },

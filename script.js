@@ -10,7 +10,7 @@ var sources = [
     { name: 'Philippe Goguet', type: 'journalist', tier: 1, workplace: 'CulturePSG' }, 
     { name: 'Saber Desfarges', type: 'journalist', tier: 1, workplace: 'Amazon Prime' },
     { name: 'Benjamin Quarez', type: 'journalist', tier: 1, workplace: 'Le Parisien' },
-    { name: 'Marc Mechenoua', type: 'journalist', tier: 1, workplace: 'Goal.com' },    
+    { name: 'Marc Mechenoua', type: 'journalist', tier: 1, workplace: 'Le Parisien' },    
     { name: 'Omar da Fonseca', type: 'journalist', tier: 1, workplace: 'Bein Sports' },
     { name: 'Rubén Uría', type: 'journalist', tier: 1, workplace: 'Bein Sports' },
     { name: 'TitisduPSG', type: 'media', tier: 1, workplace: null },
